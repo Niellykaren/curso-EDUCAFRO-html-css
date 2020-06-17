@@ -75,8 +75,11 @@ margin-left: 20px;
 			color: #333333;
 			text-decoration:	none;
     }
-busca input[type=search]	{
+.busca input[type=search]	{
         width: 170px;
+}
+.busca input {
+	vertical-align: middle;
 }
 .banner-destaque{
     margin-top: 10px;
@@ -113,3 +116,12 @@ busca input[type=search]	{
     background-color: #DCDCF5;
     float:	right;
 }
+#rodape	{
+    color: #777;
+    margin: 30px 0;
+    padding: 30px 0;
+}
+#rodape img	{
+    margin-right: 30px;
+    vertical-align:	middle;
+    width: 94px;}

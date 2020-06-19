@@ -124,4 +124,13 @@ margin-left: 20px;
 #rodape img	{
     margin-right: 30px;
     vertical-align:	middle;
-    width: 94px;}
+    width: 94px;
+}
+.social{
+    color: black;
+    font-size: xx-large;
+    
+}
+.social :hover{
+    text-decoration: none;
+}

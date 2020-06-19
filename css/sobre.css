@@ -9,10 +9,12 @@ body	{
 
 h1 {
 padding: 10px;
+background-color: rgb(163, 159, 159);
+
 }
 h2	{
-            border-bottom: 2px	solid	#333333;
-            margin-top: 30px;
+    border-bottom: 2px	solid	#333333;
+    margin-top: 30px;
 }
 
 figure	{
